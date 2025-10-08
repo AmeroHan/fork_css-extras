@@ -61,7 +61,7 @@ Maps a value from one range to another.
 }
 
 /**
-Return the ratio of the first value to the second value.
+Returns the ratio of two values. Supports values with different units, unlike regular division.
 
 @param {CalcSum} --value - Input value.
 @param {CalcSum} --to-value - Another input value.
